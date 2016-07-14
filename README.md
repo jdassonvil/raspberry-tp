@@ -8,8 +8,6 @@ Pour réaliser ce projet vous avez besoin d'installer les logiciels suivants:
 * [Win 32 disk imager](http://sourceforge.net/projects/win32diskimager/)
 * [Putty](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
 * [Zenmap](http://sourceforge.net/projects/nmap.mirror/?source=typ_redirect)
-* [cmder](http://cmder.net/)
-
 
 
 ### MacOS
